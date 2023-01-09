@@ -24,3 +24,11 @@ Options:
   -V, --version              Print version information
 ```
 
+## Install
+
+With Rust and Cargo installed:
+
+```
+git clone https://git.sr.ht/~isabelgk/sluggy
+cargo install --path .
+```
